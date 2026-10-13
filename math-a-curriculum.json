@@ -1,0 +1,124 @@
+{
+  "subject": "数学A",
+  "textbook": {
+    "title": "新数学A［改訂版］",
+    "publisher": "東京書籍",
+    "basis": "ユーザー提供の教科書表紙・目次写真（2026-10-14）"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "name": "場合の数と確率",
+      "start_page": 3,
+      "summary_page": 38,
+      "sections": [
+        {
+          "name": "場合の数",
+          "start_page": 4,
+          "source_status": "目次画像確認済み"
+        },
+        {
+          "name": "確率",
+          "start_page": 22,
+          "source_status": "目次画像確認済み"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "図形の性質",
+      "start_page": 39,
+      "summary_page": 76,
+      "sections": [
+        {
+          "name": "平面図形の基礎",
+          "start_page": 40,
+          "source_status": "目次画像確認済み"
+        },
+        {
+          "name": "三角形の性質",
+          "start_page": 50,
+          "source_status": "目次画像確認済み"
+        },
+        {
+          "name": "円の性質",
+          "start_page": 58,
+          "source_status": "目次画像確認済み"
+        },
+        {
+          "name": "空間図形",
+          "start_page": 70,
+          "source_status": "目次画像確認済み"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "数学と人間の活動",
+      "start_page": 77,
+      "summary_page": 109,
+      "sections": [
+        {
+          "name": "数や位置を表す",
+          "start_page": 78,
+          "source_status": "目次画像確認済み"
+        },
+        {
+          "name": "数のつくりを調べる",
+          "start_page": 86,
+          "source_status": "目次画像確認済み"
+        },
+        {
+          "name": "はかる",
+          "start_page": 92,
+          "source_status": "目次画像確認済み"
+        },
+        {
+          "name": "数学で遊ぶ",
+          "start_page": 98,
+          "source_status": "目次画像確認済み"
+        }
+      ]
+    }
+  ],
+  "school_reports": [
+    {
+      "number": 1,
+      "title": "場合の数",
+      "tentative_chapter": 1,
+      "mapping_status": "章単位の仮対応・学校詳細未確認"
+    },
+    {
+      "number": 2,
+      "title": "確率（1）",
+      "tentative_chapter": 1,
+      "mapping_status": "章単位の仮対応・学校詳細未確認"
+    },
+    {
+      "number": 3,
+      "title": "確率（2）",
+      "tentative_chapter": 1,
+      "mapping_status": "章単位の仮対応・学校詳細未確認"
+    },
+    {
+      "number": 4,
+      "title": "図形の性質（1）",
+      "tentative_chapter": 2,
+      "mapping_status": "章単位の仮対応・学校詳細未確認"
+    },
+    {
+      "number": 5,
+      "title": "図形の性質（2）",
+      "tentative_chapter": 2,
+      "mapping_status": "章単位の仮対応・学校詳細未確認"
+    },
+    {
+      "number": 6,
+      "title": "数学と人間の活動",
+      "tentative_chapter": 3,
+      "mapping_status": "章単位の仮対応・学校詳細未確認"
+    }
+  ],
+  "lesson_status": "学校教材との照合および問題検証は未完了",
+  "verified_lessons": 0
+}

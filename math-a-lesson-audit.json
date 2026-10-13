@@ -1,0 +1,18 @@
+{
+  "status": "original_content_math_checked_not_school_aligned",
+  "topic_count": 6,
+  "question_count": 12,
+  "topics": [
+    "集合と要素",
+    "和の法則・積の法則",
+    "順列と階乗",
+    "重複順列",
+    "円順列",
+    "組合せ"
+  ],
+  "limitations": [
+    "教科書目次のみ照合済み",
+    "各学校映像授業との個別対応未検証",
+    "練習問題12問は本番対策として十分な量ではない"
+  ]
+}
